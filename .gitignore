@@ -1,0 +1,9 @@
+# Altium History
+History/
+
+# Project Outputs
+ProjectOutputs/
+
+# Other temp Files
+*.Log
+*.html
